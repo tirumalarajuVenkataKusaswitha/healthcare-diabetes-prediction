@@ -39,6 +39,8 @@ The trained models successfully classify diabetic patients with good accuracy an
 
 ##  Dataset
 Healthcare diabetes dataset containing patient medical attributes.
+Dataset Link:https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 
 ##  Author
 **Venkata Kusaswitha Tirumalaraju**
+
